@@ -29,6 +29,7 @@ public class Kelipatan {
     public static void main(String[] args) {
         // TODO code application logic here
         tampilKelipatan();        
+        System.out.println("Developed by : Ivan Faathirza");
     }
     
 }
